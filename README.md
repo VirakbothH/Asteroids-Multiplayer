@@ -1,6 +1,6 @@
 # Asteroids Remake: Multiplayer Edition
 
-This project is a modernized version of BrickSigma’s original Asteroids remake. While the original was a singleplayer, lives-based game built with Python and Pygame, this version introduces several new features and enhancements, including multiplayer support and a time-based scoring system.
+This project is a modernized version of BrickSigma's original Asteroids remake. While the original was a singleplayer, lives-based game built with Python and Pygame, this version introduces several new features and enhancements, including multiplayer support and a time-based scoring system.
 
 ## Key Features
 
@@ -24,10 +24,16 @@ This enhanced version includes:
 ## How to Play
 
 - **Controls:**
-  - **Left/Right Arrow Keys:** Rotate your ship.
-  - **Up Arrow Key:** Accelerate forward.
-  - **Space Bar:** Fire bullets.
-  - **P Key:** Pause the game.
+  - **Local Player**
+    - **Left/Right Arrow Keys:** Rotate your ship.
+    - **Up Arrow Key:** Accelerate forward.
+    - **Space Bar:** Fire bullets.
+    - **P Key:** Pause the game.
+
+  - **Remote Player**
+    - **Tilt:** Tilt left or right to  rotate your ship accordingly.
+    - **Primary Button:** Hold to accelerate forward. Unhold to decelerate and stop
+    - **Secondary Button:** Fire bullets.
   
 - **Objective:**  
   Survive and score as many points as possible by destroying asteroids. Avoid collisions, as these will penalize your score.
