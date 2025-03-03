@@ -43,3 +43,6 @@ This enhanced version includes:
 - Python 3.x
 - Pygame
 - NumPy
+
+## Original Project
+[Asteroids - Pygame Edition by BrickSigma](https://github.com/BrickSigma/Asteroids-pygame/tree/main)
